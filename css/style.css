@@ -1,0 +1,31 @@
+.text {
+    font-family: 'Rubik', sans-serif;
+}
+
+.block {
+    font-family: Verdana
+}
+
+button {
+    font-size: 16px;
+    padding: 1em 3.3em;
+    cursor: pointer;
+    color: white;
+    font-weight: 900;
+    border: none;
+    border-radius: 5px;
+    background: #557afc;
+    box-shadow: rgba(63, 94, 251, 0.2) 0px 40px 29px 0px;
+    will-change: transform;
+    transition: all 0.3s;
+    border-bottom: 2px solid #557afc;
+}
+
+.button-wrapper{
+	display: flex;	
+	justify-content: center;	
+}
+
+.button-wrapper{
+    margin-top:100px;
+    }
