@@ -7,18 +7,18 @@
 }
 
 button {
-    font-size: 16px;
+    font-size: 18px;
     padding: 1em 3.3em;
     cursor: pointer;
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: 900;
     border: none;
     border-radius: 5px;
-    background: #557afc;
-    box-shadow: rgba(63, 94, 251, 0.2) 0px 40px 29px 0px;
+    background: #82e247;
+    box-shadow: rgba(112, 245, 4, 0.205) 0px 40px 29px 0px;
     will-change: transform;
     transition: all 0.3s;
-    border-bottom: 2px solid #557afc;
+    border-bottom: 2px solid #82e247;
 }
 
 .button-wrapper{
@@ -29,3 +29,4 @@ button {
 .button-wrapper{
     margin-top:100px;
     }
+
